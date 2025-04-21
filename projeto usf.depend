@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745269656 source:d:\programação\projetos\formacao em c\curso 3 c\projeto usf\projeto usf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
